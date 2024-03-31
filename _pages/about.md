@@ -12,7 +12,7 @@ image:
 toc: true
 ---
 
-I am Vinit Vora. Here is my resume::
+Thanks for visiting. The sections below will be filled up very soon. In the meantime, reach out to me on email for my resume or any questions.
 
 ## Working Experience
 

@@ -4,6 +4,8 @@ main:
   #   url: /home/
   - title: "About"
     url: /about/
+  - title: "Resume"
+    url: https://github.com/Vinit610/vinit610.github.io/blob/master/Vinit_Resume.pdf
   # - title: "Random Musings"
   #   url: /year-archive/
   # - title: "Sample Collections"

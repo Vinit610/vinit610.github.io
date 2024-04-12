@@ -1,8 +1,7 @@
 ---
 permalink: /resume/
-title: "Vinit Vora Resume"
 date: 2023-10-15
-last_modified_at: 2023-10-15T10:19:56-04:00
+last_modified_at: 2024-04-12T10:19:56-04:00
 excerpt: "Vinit Vora"
 toc: false
 ---

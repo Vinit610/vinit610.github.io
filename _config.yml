@@ -20,7 +20,7 @@ title                    : "Coding Futures"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Vinit Vora"
-description              : "Software Engineer with a passion for finance"
+description              : "Software Engineer with a passion for finance."
 url                      : "https://vinit610.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : Vinit610/vinit610.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : "Vinit Vora"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Vinit_photo.jpg"
   bio              : "Software Engineer with a passion for finance."
   location         : "Munich, Germany"
   email            : "voravinit3@gmail.com"
   links:
-    - label: "voravinit3@gmail.com"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:voravinit3@gmail.com"
+    # - label: "voravinit3@gmail.com"
+    #   icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:voravinit3@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

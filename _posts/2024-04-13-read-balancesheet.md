@@ -41,7 +41,7 @@ And suppose the retail store pays the owner 15₹ for this pen, and sells 1460 o
 Then, the business will make 87,600₹ per year. Here’s the income statement.
 
 
-|    Income statement for 1 year    |
+|    **Income statement for 1 year**    |
 | Revenues | 15 * 1460 * 12 = 262,800₹ <br> (15₹/pen, 1460 pens/month, 12 months/year) |
 | Costs | 10 * 1460 * 12 = 175,200₹ <br> (10₹/pen, 1460 pens/month, 12 months/year) |
 | Profits | 262,800₹ - 175200₹ = 87,600₹ <br> (Revenues - Costs) |
@@ -56,7 +56,7 @@ Suppose it costs the owner 4₹ to make a samosa. This includes all the ingredie
 Then, this business will also make 87,600₹ a year. Here’s the income statement.
 
 
-|    Income statement for 1 year    |
+|    **Income statement for 1 year**    |
 | Revenues | 6 * 120 * 365 = 262,800₹ <br> (6₹/samosa, 120 samosas/day, 365 days/year)|
 | Costs | 4 * 120 * 365 = 175,200₹ <br> (4₹/samosa, 120 samosas/day, 365 months/year)|
 | Profits | 262,800₹ - 175200₹ = 87,600₹ <br> (Revenues - Costs)|

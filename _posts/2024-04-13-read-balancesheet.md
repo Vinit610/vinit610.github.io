@@ -91,8 +91,27 @@ As we can see that Asset side of the Balance Sheet NEVER drop below 14.6K₹ - t
 
 {% include figure image_path="/assets/images/pen_business.png" alt="Pen Business cycle" caption="Explains how a pen business rotates money" %}
 
-Compare that to the assets on Samosa business's Balance Sheet. And here we immediately realise that samosa business only needs 480₹ to function - very less compared to the pen business.
-
-High quality businesses require only a small amount of "assets" per dollor of **earnings** produced.
+Compare that to the assets on Samosa business's Balance Sheet. And here we immediately realise that samosa business only needs 480₹ to function - very less compared to the pen business. High quality businesses require only a small amount of "assets" per dollor of **earnings** produced.
 
 {% include figure image_path="/assets/images/samosa_business.png" alt="Samosa Business cycle" caption="Explains how a Samosa business rotates money" %}
+
+As said earlier, Asset side (Cash, inventory, receivables, investments etc..) of the business explains how much capital does a business need to function. On the other hand, every balance sheet also has a liability side (Equity, Debt or Float) which tells us **where** all this capital in the business is coming from.
+
+Equity is the capital put up by business owners. Debt is capital borrowed by the business. Float is the capital provided by suppliers, employees, government, customers etc.. typically for free.
+
+Since Assets and Liabilities is the same way of showing the same amount of capital in different ways, they both always add up to the same value in any company's balance sheet.
+
+Here's a real world example of the company Zomato. As you can see that Assets and Liabilities come out as the same total.
+
+{% include figure image_path="/assets/images/Zomato_balancesheet.png" alt="Zomato BalanceSheet" %}
+
+**Note**: Zomato doesn't have any equity until March, 2021 as they only IPOed in July, 2021.
+
+Given both sides are the same, so why should someone even learn about the liabilities side of the business ?
+
+The answer is that businesses can boost their returns for shareholders if they are deploying someone else's capital (aka Float) into the business. High debt is bad in the high interest rate environment. 
+
+That's it. You get the jist. Thanks for reading..
+
+
+

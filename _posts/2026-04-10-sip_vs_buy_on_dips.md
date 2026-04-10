@@ -10,6 +10,7 @@ This post explains a full detailed analysis of Nifty50 data for the last 18 year
 
 Motivation was the post from Varsity here: https://x.com/ZerodhaVarsity/status/2042197679594471500?s=20 
 
+```
 Data loaded: 2007-09 → 2026-03 (223 months)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -280,3 +281,4 @@ Notes:
   • Idle cash earns 0% (conservative — real FD/liquid fund ~6-7% would favour DIP more)
   • SIP+Dip Boost deploys ₹20k/month total — not directly comparable to ₹10k strategies
 
+```

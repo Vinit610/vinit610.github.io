@@ -1,3 +1,11 @@
+---
+title: "Nifty50: Pure SIP vs Buy on dips (Let's deep dive)"
+excerpt: "Understand the difference between timing the market vs time in market (& if there's any difference in returns)"
+tags: [Finance, Business]
+toc: true
+---
+
+
 This post explains a full detailed analysis of Nifty50 data for the last 18 years. The post explains the difference between SIP vs Buy on dips strategy for different time windows.  
 
 Motivation was the post from Varsity here: https://x.com/ZerodhaVarsity/status/2042197679594471500?s=20 
